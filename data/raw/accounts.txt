@@ -1,0 +1,6 @@
+account_id,customer_id,credit_limit,current_balance,account_status
+A001,C001,15000,12000,Active
+A002,C002,20000,5000,Active
+A003,C003,10000,9500,Active
+A004,C004,25000,7000,Active
+A005,C005,8000,7900,Delinquent

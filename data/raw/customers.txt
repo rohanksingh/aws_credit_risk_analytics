@@ -1,0 +1,6 @@
+customer_id,age,income,state,employment_status
+C001,35,75000,NJ,Employed
+C002,42,120000,NY,Employed
+C003,29,55000,CA,Self-Employed
+C004,50,98000,TX,Employed
+C005,31,67000,FL,Unemployed
