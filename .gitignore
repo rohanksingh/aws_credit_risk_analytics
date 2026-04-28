@@ -1,0 +1,10 @@
+*.pbix
+*.csv
+*.xlsx
+*.parquet
+*.zip
+*.log
+.env
+.aws/
+credentials
+*.key
