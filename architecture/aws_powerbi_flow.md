@@ -1,3 +1,5 @@
+
+```
 flowchart TD
     A[Power BI Desktop] --> B[ODBC Driver]
     B --> C[Amazon Athena]
@@ -10,3 +12,4 @@ flowchart TD
     G --> I[Total Expected Loss KPI]
     G --> J[Expected Loss by Segment]
     G --> K[Risk Segment Summary Table]
+```
