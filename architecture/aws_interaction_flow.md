@@ -1,3 +1,6 @@
+#### AWS Interaction Flow
+```<> Mermaid
+
 flowchart LR
     A[Credit Card CSV Files] --> B[Amazon S3 Raw Folder]
     B --> C[AWS Glue Crawler]
@@ -11,3 +14,4 @@ flowchart LR
 
     B --> K[S3 Athena Results Folder]
     E --> K
+```
